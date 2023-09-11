@@ -2,8 +2,9 @@
 This project aims to provide users with a fun and engaging platform to enhance their photos and videos with a wide range of customizable face filters, stickers, effects, and animations.
 
 Website Link: https://araynasaxena.github.io/Face-Filters-using-Face-Recognition/
+<br>
 Best used with Windows or HP ( 15.1 inch,not a dynamic website)
-Languages used: HTML, CSS and Javascript
+<br> Languages used: HTML, CSS and Javascript
 <br> 
 ![editimage](https://github.com/AraynaSaxena/Face-Filters-using-Face-Recognition/assets/119561390/e639b06d-9feb-4f32-a189-ce1021bddd86)
 
